@@ -4,7 +4,7 @@ const lightbox = document.getElementById("lightbox");
 const closeButton = document.getElementById("closeButton");
 const lightboxImage = document.getElementById("lightboxImage");
 
-const correctPassword = "DA VINCI"; 
+const correctPassword = "DAVINCI"; 
 
 submitButton.addEventListener("click", () => {
     const enteredPassword = passwordInput.value;
